@@ -340,8 +340,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 0883833317093*
+│√ *OVO : 0883833317093*
 ┬
 ╰──────「 *BY ${name}* 」
 
